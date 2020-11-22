@@ -1,4 +1,4 @@
-# Time Series and Linear Regression Analysis
+# Time Series and Regression Analysis
 
 ![demo](https://github.com/amanafzali/bootcamp_Time-Series/blob/main/Pictures/Time%20series%20demo.png?raw=true)
 
