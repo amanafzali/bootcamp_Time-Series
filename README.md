@@ -4,7 +4,7 @@
 
 ## Introductions
 
-In this homework practice I will analyze time series tolls to predict future movement in the value of the Japanese yen vs U.S dollar. In order to predict forecasting two time series analysis notebooks used. Time Series forecasting and Linear Regression Forecasting
+In this project I will analyze time series tolls to predict future movement in the value of the Japanese yen vs U.S dollar. In order to predict forecasting two time series analysis notebooks used. Time Series forecasting and Linear Regression Forecasting
 
 ## Time-Series Forecasting
 
